@@ -1,0 +1,15 @@
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/bin/Debug/net6.0/Assignment Lesson 05
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/bin/Debug/net6.0/Assignment Lesson 05.deps.json
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/bin/Debug/net6.0/Assignment Lesson 05.runtimeconfig.json
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/bin/Debug/net6.0/Assignment Lesson 05.dll
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/bin/Debug/net6.0/Assignment Lesson 05.pdb
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/obj/Debug/net6.0/Assignment Lesson 05.csproj.AssemblyReference.cache
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/obj/Debug/net6.0/Assignment Lesson 05.GeneratedMSBuildEditorConfig.editorconfig
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/obj/Debug/net6.0/Assignment Lesson 05.AssemblyInfoInputs.cache
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/obj/Debug/net6.0/Assignment Lesson 05.AssemblyInfo.cs
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/obj/Debug/net6.0/Assignment Lesson 05.csproj.CoreCompileInputs.cache
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/obj/Debug/net6.0/Assignment Lesson 05.dll
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/obj/Debug/net6.0/refint/Assignment Lesson 05.dll
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/obj/Debug/net6.0/Assignment Lesson 05.pdb
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/obj/Debug/net6.0/Assignment Lesson 05.genruntimeconfig.cache
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 05/obj/Debug/net6.0/ref/Assignment Lesson 05.dll
