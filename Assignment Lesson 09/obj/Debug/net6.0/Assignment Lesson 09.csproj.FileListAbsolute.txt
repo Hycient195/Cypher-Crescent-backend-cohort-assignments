@@ -1,0 +1,15 @@
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/obj/Debug/net6.0/Assignment Lesson 09.csproj.AssemblyReference.cache
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/obj/Debug/net6.0/Assignment Lesson 09.GeneratedMSBuildEditorConfig.editorconfig
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/obj/Debug/net6.0/Assignment Lesson 09.AssemblyInfoInputs.cache
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/obj/Debug/net6.0/Assignment Lesson 09.AssemblyInfo.cs
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/obj/Debug/net6.0/Assignment Lesson 09.csproj.CoreCompileInputs.cache
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/bin/Debug/net6.0/Assignment Lesson 09
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/bin/Debug/net6.0/Assignment Lesson 09.deps.json
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/bin/Debug/net6.0/Assignment Lesson 09.runtimeconfig.json
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/bin/Debug/net6.0/Assignment Lesson 09.dll
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/bin/Debug/net6.0/Assignment Lesson 09.pdb
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/obj/Debug/net6.0/Assignment Lesson 09.dll
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/obj/Debug/net6.0/refint/Assignment Lesson 09.dll
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/obj/Debug/net6.0/Assignment Lesson 09.pdb
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/obj/Debug/net6.0/Assignment Lesson 09.genruntimeconfig.cache
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Assignment Lesson 09/obj/Debug/net6.0/ref/Assignment Lesson 09.dll

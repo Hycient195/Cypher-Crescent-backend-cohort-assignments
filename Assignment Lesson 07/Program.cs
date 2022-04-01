@@ -175,3 +175,8 @@ static void Q15()
   Console.WriteLine("");
 }
 // Q15();
+
+double fahrenheit = 94;
+
+double celcuis = ((fahrenheit - 32) * 5/9);
+Console.WriteLine(celcuis);
