@@ -201,7 +201,7 @@ Console.WriteLine(ans);
 /* Q4. Write a function that returns the total 
 number of string character passed to it*/
 
-static int StringNum (string arg){
+static int StrintLength (string arg){
   int countVal = 0;
   foreach(int item in arg){
     countVal += 1;
@@ -209,7 +209,7 @@ static int StringNum (string arg){
   return countVal;
 }
 
-int res = StringNum("Harvard");
+int res = StrintLength("Harvard");
 Console.WriteLine(res);
 
 
