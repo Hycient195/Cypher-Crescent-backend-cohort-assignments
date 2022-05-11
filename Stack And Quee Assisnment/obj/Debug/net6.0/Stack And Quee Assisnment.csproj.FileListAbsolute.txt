@@ -1,0 +1,15 @@
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/obj/Debug/net6.0/Stack And Quee Assisnment.csproj.AssemblyReference.cache
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/obj/Debug/net6.0/Stack And Quee Assisnment.GeneratedMSBuildEditorConfig.editorconfig
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/obj/Debug/net6.0/Stack And Quee Assisnment.AssemblyInfoInputs.cache
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/obj/Debug/net6.0/Stack And Quee Assisnment.AssemblyInfo.cs
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/obj/Debug/net6.0/Stack And Quee Assisnment.csproj.CoreCompileInputs.cache
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/bin/Debug/net6.0/Stack And Quee Assisnment
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/bin/Debug/net6.0/Stack And Quee Assisnment.deps.json
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/bin/Debug/net6.0/Stack And Quee Assisnment.runtimeconfig.json
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/bin/Debug/net6.0/Stack And Quee Assisnment.dll
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/bin/Debug/net6.0/Stack And Quee Assisnment.pdb
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/obj/Debug/net6.0/Stack And Quee Assisnment.dll
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/obj/Debug/net6.0/refint/Stack And Quee Assisnment.dll
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/obj/Debug/net6.0/Stack And Quee Assisnment.pdb
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/obj/Debug/net6.0/Stack And Quee Assisnment.genruntimeconfig.cache
+/home/hycient/Documents/Cypher Crescent Training/Assignments/Stack And Quee Assisnment/obj/Debug/net6.0/ref/Stack And Quee Assisnment.dll

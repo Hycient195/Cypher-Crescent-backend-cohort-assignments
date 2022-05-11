@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Stack And Quee Assisnment/1.0.0": {
+        "runtime": {
+          "Stack And Quee Assisnment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stack And Quee Assisnment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
